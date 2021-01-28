@@ -13,6 +13,8 @@ dependencies:
   cupertino_icons: ^1.0.0
 
 dev_dependencies:
+  flutter_riverpod: ^0.12.2
+  uuid: ^2.2.2
   pedantic_mono: any
   flutter_test:
     sdk: flutter
